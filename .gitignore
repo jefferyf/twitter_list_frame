@@ -1,0 +1,14 @@
+.bundle
+db/*.sqlite3
+log/*.log
+.sass-cache/
+.DS_Store
+tmp/**/*
+config/*.yml
+config/ultrasphinx/*
+db/*.sqlite3
+public/system
+nbproject/*
+rails_asset_id
+ehthumbs.db
+Thumbs.db
